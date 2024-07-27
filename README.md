@@ -72,13 +72,13 @@ This project is a simple file upload system that allows users to upload files th
 
 ## Project Structure
 ile-upload-project/
-│
-├── index.html # Main HTML file for the upload interface
-├── upload.php # PHP script to handle file uploads
-├── preview.php # PHP script to handle file previews
-├── uploads/ # Directory to store uploaded files
-│
-└── README.md # Project documentation
+
+-index.html # Main HTML file for the upload interface
+- upload.php # PHP script to handle file uploads
+- preview.php # PHP script to handle file previews
+- uploads/ # Directory to store uploaded files
+
+- README.md # Project documentation
 
 
 ## License
@@ -86,4 +86,7 @@ ile-upload-project/
 This project is open-source and available under the [MIT License](LICENSE).
 
 
+## Contribution
+
+Contributions are welcome! Please fork the repository and submit a pull request with your changes.
 
